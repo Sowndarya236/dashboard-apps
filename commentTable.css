@@ -1,0 +1,31 @@
+.comment-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  }
+  
+  .comment-table th,
+  .comment-table td {
+    text-align: left;
+    padding: 12px 16px;
+    border-bottom: 1px solid #eaeaea;
+    font-size: 14px;
+  }
+  
+  .comment-table th {
+    background-color: #f3f4f6;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  .comment-cell {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 300px;
+  }
+  
