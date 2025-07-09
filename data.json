@@ -1,0 +1,66 @@
+[
+    {
+      "postId": 1,
+      "id": 2,
+      "name": "Leanne Graham",
+      "email": "leanne@example.com",
+      "body": "Comment from Leanne. Great insight!"
+    },
+    {
+      "postId": 2,
+      "id": 3,
+      "name": "Ervin Howell",
+      "email": "ervin@example.com",
+      "body": "Thanks for this useful data."
+    },
+    {
+      "postId": 2,
+      "id": 4,
+      "name": "Clementine Bauch",
+      "email": "clementine@example.com",
+      "body": "This was really helpful to understand pagination."
+    },
+    {
+      "postId": 3,
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "email": "chelsey@example.com",
+      "body": "Can we sort this column? Asking for a friend."
+    },
+    {
+      "postId": 3,
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "email": "dennis@example.com",
+      "body": "Nice dashboard implementation!"
+    },
+    {
+      "postId": 4,
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "email": "kurtis@example.com",
+      "body": "The pagination control is smooth and responsive."
+    },
+    {
+      "postId": 4,
+      "id": 8,
+      "name": "Nicholas Runolfsdottir",
+      "email": "nicholas@example.com",
+      "body": "Sorting by email works perfectly."
+    },
+    {
+      "postId": 5,
+      "id": 9,
+      "name": "Glenna Reichert",
+      "email": "glenna@example.com",
+      "body": "Search filters results as expected. Good job!"
+    },
+    {
+      "postId": 5,
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "email": "clementina@example.com",
+      "body": "Clean and responsive UI!"
+    }
+  ]
+  
